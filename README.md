@@ -8,11 +8,18 @@ where I enjoy working with data, training models, and building intelligent syste
 to solve real-world problems.
 
 ## Languages and Tools
-
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,numpy,pandas,matplotlib,git,github,vscode,linux,latex" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,matplotlib" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=colab,git,github,linux,vscode" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=latex,markdown" />
+</p>
 
 ## 📫 Let's Connect
 
