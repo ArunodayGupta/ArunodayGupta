@@ -10,19 +10,7 @@ to solve real-world problems.
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,matplotlib" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=colab,git,github,linux,vscode" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=latex,markdown" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,numpy,pandas,matplotlib,git,github,vscode,linux,latex" />
 </p>
 
 
@@ -36,10 +24,10 @@ to solve real-world problems.
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://leetcode.com/u/Arunoday_Gupta/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-    <a href="https://www.kaggle.com/arunodaygupta" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" />
+  <a href="https://www.kaggle.com/arunodaygupta" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
 
