@@ -12,10 +12,10 @@ to solve real-world problems.
   <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=colab,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=latex,markdown" />
