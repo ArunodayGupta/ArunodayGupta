@@ -18,7 +18,7 @@ to solve real-world problems.
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=latex,markdown" />
+  <img src="https://skillicons.dev/icons?i=latex" />
 </p>
 
 ## 📫 Let's Connect
