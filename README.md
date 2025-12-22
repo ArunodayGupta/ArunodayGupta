@@ -15,7 +15,7 @@ to solve real-world problems.
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=latex" />
